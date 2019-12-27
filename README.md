@@ -6,4 +6,5 @@ A code repository for eLab
 ### Contribution
 - if you like you can make a pull request
 
-I got this code from [here](https://github.com/KaziNizamul/elab-SRM)
+#### Resources
+[Java](https://github.com/KaziNizamul/elab-SRM)
